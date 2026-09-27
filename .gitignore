@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+# never commit real key material by accident
+*.key
+*.crt
+*.pem
+*.p12
+*.pfx
